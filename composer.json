@@ -1,0 +1,15 @@
+{
+    "name": "jerryliu/all-in-one-wp-migration-unlimited-extension",
+    "autoload": {
+        "psr-4": {
+            "Jerryliu\\AllInOneWpMigrationUnlimitedExtension\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jerry Liu",
+            "email": "frencyliu@gmail.com"
+        }
+    ],
+    "require": {}
+}
